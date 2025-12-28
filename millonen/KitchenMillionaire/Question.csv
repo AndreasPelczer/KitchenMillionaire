@@ -1,0 +1,273 @@
+text;optionA;optionB;optionC;optionD;correctIndex;level
+Was nennt man das Schneidewerkzeug eines Kochs?;Pfanne;Messer;Topf;Sieb;1;1
+Wie heißt das Grundgewürz aus Pfeffer und Salz?;Fond;Bouquet;Basiswürze;Assaisonnement;3;1
+Was ist ein Löffel?;Ein Kochgerät;Ein Messer;Ein Topf;Ein Herd;0;1
+Welche Farbe hat eine reife Tomate?;Grün;Gelb;Rot;Blau;2;1
+Was bedeutet „al dente“?;Sehr weich;Angebrannt;Bissfest;Kalt;2;1
+Was ist Butter?;Ein Fett;Ein Gemüse;Ein Gewürz;Ein Getränk;0;1
+Woraus besteht ein Omelett hauptsächlich?;Mehl;Reis;Eier;Milch;2;1
+Was ist Wasser?;Ein Gewürz;Ein Getränk;Ein Fett;Ein Gemüse;1;1
+Wie nennt man das Kochen in Wasser?;Frittieren;Braten;Kochen;Grillieren;2;1
+Was ist Zucker?;Ein Salz;Ein Fett;Ein Süßstoff;Ein Gewürz;2;1
+Was ist ein Topf?;Ein Besteck;Ein Kochgefäß;Ein Messer;Ein Teller;1;1
+Was ist ein Herd?;Ein Kühlgerät;Ein Kochgerät;Ein Messer;Ein Mixer;1;1
+Welche Zutat ist tierischen Ursprungs?;Mehl;Milch;Salz;Reis;1;1
+Was ist ein Apfel?;Ein Gemüse;Ein Obst;Ein Gewürz;Ein Getreide;1;1
+Wozu dient ein Sieb?;Zum Schneiden;Zum Abgießen;Zum Würzen;Zum Braten;1;1
+Was ist Pfeffer?;Ein Kraut;Ein Gewürz;Ein Fett;Ein Gemüse;1;1
+Was ist Salz?;Ein Gewürz;Ein Fett;Ein Zucker;Ein Getränk;0;1
+Welche Farbe hat Salz?;Schwarz;Grün;Weiß;Rot;2;1
+Was ist Brot?;Ein Getränk;Ein Backprodukt;Ein Gewürz;Ein Fett;1;1
+Woraus besteht Reis?;Getreide;Milch;Fleisch;Fett;0;1
+Was ist eine Pfanne?;Ein Kochgefäß;Ein Besteck;Ein Teller;Ein Ofen;0;1
+Was ist ein Messer?;Ein Kochgerät;Ein Besteck;Ein Topf;Ein Herd;1;1
+Was ist Käse?;Ein Fett;Ein Milchprodukt;Ein Gemüse;Ein Getränk;1;1
+Was ist Suppe?;Ein Getränk;Ein flüssiges Gericht;Ein Gewürz;Ein Dessert;1;1
+Was ist ein Kühlschrank?;Ein Kochgerät;Ein Kühlgerät;Ein Backofen;Ein Mixer;1;1
+Wie nennt man warmes Fett zum Garen?;Fond;Sud;Fettbad;Frittierfett;3;1
+Was ist Mehl?;Ein Fett;Ein Getreideprodukt;Ein Gewürz;Ein Gemüse;1;1
+Was ist ein Ei?;Ein Gewürz;Ein tierisches Produkt;Ein Getränk;Ein Gemüse;1;1
+Was ist Kaffee?;Ein Gericht;Ein Getränk;Ein Gewürz;Ein Fett;1;1
+Was ist Tee?;Ein Getränk;Ein Gewürz;Ein Fett;Ein Gericht;0;1
+Was ist Zucker braun karamellisiert?;Geschmolzen;Karamell;Fond;Jus;1;1
+Was ist ein Teller?;Ein Kochgerät;Ein Essgeschirr;Ein Topf;Ein Messer;1;1
+Was ist ein Glas?;Ein Kochgerät;Ein Trinkgefäß;Ein Topf;Ein Besteck;1;1
+Was ist ein Löffel aus Metall?;Besteck;Geschirr;Topf;Pfanne;0;1
+Was ist ein Backofen?;Ein Kühlgerät;Ein Kochgerät;Ein Mixer;Ein Besteck;1;1
+Was ist ein Dessert?;Vorspeise;Hauptgericht;Nachspeise;Getränk;2;1
+Was ist Eiscreme?;Ein Getränk;Ein Dessert;Ein Gewürz;Ein Brot;1;1
+Was ist Schokolade?;Ein Gewürz;Ein Dessert;Ein Fett;Ein Gemüse;1;1
+Was ist Honig?;Ein Fett;Ein Süßungsmittel;Ein Salz;Ein Gewürz;1;1
+Was ist Milch?;Ein Fett;Ein Getränk;Ein Gewürz;Ein Getreide;1;1
+Was ist ein Mixer?;Ein Schneidgerät;Ein Küchengerät;Ein Herd;Ein Topf;1;1
+Was ist ein Schneebesen?;Zum Rühren;Zum Schneiden;Zum Braten;Zum Kühlen;0;1
+Was ist Öl?;Ein Fett;Ein Getränk;Ein Gewürz;Ein Gemüse;0;1
+Was ist Essig?;Ein Fett;Ein Säuerungsmittel;Ein Zucker;Ein Getränk;1;1
+Was ist ein Salat?;Ein Getränk;Ein kaltes Gericht;Ein Dessert;Ein Brot;1;1
+Was ist ein Gewürz?;Zum Würzen;Zum Backen;Zum Kühlen;Zum Waschen;0;1
+Was ist ein Fond?;Ein Gewürz;Ein Kochgrundstock;Ein Dessert;Ein Teig;1;2
+Was bedeutet „blanchieren“?;Anbraten;Kurz kochen und abschrecken;Backen;Marinieren;1;2
+Was ist ein Bouquet garni?;Ein Messer;Ein Kräuterbund;Ein Topf;Ein Dessert;1;2
+Was ist Julienne?;Eine Soße;Eine Schnitttechnik;Ein Gewürz;Ein Fisch;1;2
+Was ist eine Reduktion?;Verdünnen;Einkochen;Kühlen;Würzen;1;2
+Was ist ein Ragout?;Ein Dessert;Ein geschmortes Gericht;Ein Salat;Ein Getränk;1;2
+Was ist eine Emulsion?;Eine Trennung;Eine Verbindung von Fett und Wasser;Ein Garpunkt;Ein Schnitt;1;2
+Was ist Mirepoix?;Ein Fisch;Gemüsewürfel;Ein Fond;Ein Messer;1;2
+Was ist ein Jus?;Ein Dessert;Ein Bratensaft;Ein Gewürz;Ein Teig;1;2
+Was ist Poelieren?;Kochen;Sanftes Garen mit Fett;Grillen;Frittieren;1;2
+Was ist eine Velouté?;Eine Mehlschwitze;Eine helle Grundsoße;Ein Dessert;Ein Teig;1;2
+Was ist ein Passiersieb?;Zum Schneiden;Zum Feinabseihen;Zum Backen;Zum Würzen;1;2
+Was ist Confieren?;Kochen in Zucker;Garen in Fett;Grillen;Räuchern;1;2
+Was ist eine Marinade?;Ein Dessert;Eine Würzflüssigkeit;Ein Teig;Ein Messer;1;2
+Was ist ein Bindemittel?;Zum Würzen;Zum Andicken;Zum Kühlen;Zum Schneiden;1;2
+Was ist Stärke?;Ein Fett;Ein Bindemittel;Ein Gewürz;Ein Getränk;1;2
+Was ist Pochieren?;Braten;Garen unter Siedepunkt;Backen;Frittieren;1;2
+Was ist ein Coulis?;Ein Püree;Eine Soße;Ein Brot;Ein Gewürz;1;2
+Was ist ein Schaum?;Ein Dessert;Eine aufgeschlagene Masse;Ein Teig;Ein Fett;1;2
+Was ist ein Garpunkt?;Eine Temperatur;Der optimale Garzustand;Ein Messer;Ein Gewürz;1;2
+Was ist ein Legieren?;Würzen;Binden mit Eigelb;Kühlen;Braten;1;2
+Was ist ein Ansatz?;Ein Dessert;Grundlage für Soßen;Ein Teig;Ein Gewürz;1;2
+Was ist eine Farce?;Ein Dessert;Eine Füllmasse;Ein Fond;Ein Teig;1;2
+Was ist ein Dämpfer?;Ein Topf;Ein Gargerät;Ein Gewürz;Ein Messer;1;2
+Was ist eine Mehlschwitze?;Roux;Fond;Jus;Teig;0;2
+Was ist ein Roux?;Fett-Mehl-Gemisch;Ein Messer;Ein Dessert;Ein Fond;0;2
+Was ist Glasieren?;Mit Fett überziehen;Mit Zucker überziehen;Kühlen;Marinieren;1;2
+Was ist ein Parieren?;Würzen;Putzen von Fleisch;Kochen;Kühlen;1;2
+Was ist ein Deglacieren?;Ablöschen;Abkühlen;Braten;Binden;0;2
+Was ist ein Sautieren?;Schwenkbraten;Kochen;Dämpfen;Frittieren;0;2
+Was ist ein Binden mit Butter?;Montieren;Legieren;Reduzieren;Parieren;0;2
+Was ist ein Abrieb?;Schale;Saft;Mark;Kern;0;2
+Was ist ein Aromat?;Geschmacksträger;Fett;Zucker;Salz;0;2
+Was ist eine Consommé?;Klare Suppe;Eintopf;Soße;Dessert;0;
+Welches Fleischteil eignet sich am besten für Wiener Schnitzel?;Oberschale;Unterschale;Nuss;Hüfte;0;2
+Was ist das Merkmal eines "Süßwasserfisches"?;Lebt im Fluss oder See;Lebt im Ozean;Hat keine Gräten;Hat immer Schuppen;0;1
+Wie nennt man das Bindegewebe bei Fleisch?;Sehnen und Faszien;Muskelfleisch;Fettgewebe;Knochenmark;0;2
+Welche Kartoffelsorte ist ideal für Kartoffelsalat?;Festkochend;Mehligkochend;Vorwiegend festkochend;Süßkartoffel;0;1
+Was ist ein "Entrecôte"?;Zwischenrippenstück;Lendenstück;Hüftstück;Nackenstück;0;2
+Wie nennt man die Garstufe "Medium Rare" auf Deutsch?;Englisch;Rosa;Durch;Blutig;1;1
+Welcher Teil des Rindes ist das "Tafelspitz"?;Schwanzstück;Schulter;Nacken;Brust;0;2
+Was versteht man unter "Parüren"?;Abschnitte beim Putzen;Gewürzmischung;Küchengeräte;Tischdeko;0;2
+Welches Getreide ist glutenfrei?;Reis;Weizen;Roggen;Dinkel;0;1
+Was ist die Hauptzutat einer klassischen "Aioli"?;Knoblauch und Öl;Eier und Butter;Milch und Mehl;Tomaten;0;1
+Wie viel Gramm wiegt ein Ei der Gewichtsklasse L?;Über 63g;Unter 50g;Genau 70g;Über 80g;0;2
+Was ist eine "Farce"?;Zerkleinerte Füllmasse;Witziges Gericht;Saucenart;Gemüsesorte;0;2
+Welcher Pilz ist ein "Speisemorchel"?;Edelpilz;Giftpilz;Baumpilz;Zuchtpilz;0;2
+Was ist "Tranchieren"?;Fachgerechtes Zerlegen;Kochen in Wein;Einfrieren;Frittieren;0;1
+Wie heißt die Lehre der Speisenfolge?;Menükunde;Warenkunde;Logistik;Servicekunde;0;1
+Wie hoch ist der durchschnittliche Garverlust bei Fleisch?;0.25;0.1;0.5;0.05;0;3
+Was bedeutet "Brutto" beim Wareneinkauf?;Gewicht inklusive Verpackung;Gewicht ohne Verpackung;Preis ohne Steuer;Preis mit Rabatt;0;2
+Wie berechnet man den Wareneinsatz?;Anfangsbestand + Zugang - Endbestand;Umsatz - Gewinn;Preis x Menge;Einkauf + Verkauf;0;3
+Was ist der "Umsatzsteuer-Satz" für Speisen im Restaurant?;0.19;0.07;0;0.25;0;2
+Wie viel Liter ergeben 10 Portionen Suppe à 0,25l?;2,5 Liter;25 Liter;1 Liter;5 Liter;0;2
+Was bedeutet die Abkürzung HACCP?;Gefahrenanalyse kritischer Kontrollpunkte;Handels- und Agrar-Code;Hygiene-App;Haus-Check-Plan;0;2
+Bei welcher Temperatur sterben die meisten Bakterien ab?;Über 70 Grad Celsius;Bei 20 Grad Celsius;Bei 0 Grad Celsius;Bei 40 Grad Celsius;0;2
+Was ist "Salmonellose"?;Eine Infektionskrankheit;Ein Gewürz;Eine Kochtechnik;Ein Fischgericht;0;2
+Welches Brett nutzt man laut Farbsystem für Geflügel?;Gelb;Grün;Rot;Blau;0;2
+Wie lange müssen Rückstellproben aufbewahrt werden?;7 Tage;24 Stunden;1 Monat;1 Jahr;0;3
+Welche Sauce gehört NICHT zu den warmen Grundsaucen?;Mayonnaise;Béchamel;Velouté;Espagnole;0;3
+Woraus besteht eine "Sauce Hollandaise"?;Eigelb und Butter;Mehl und Milch;Öl und Essig;Sahne und Senf;0;3
+Was ist eine "Sauce Bearnaise"?;Hollandaise mit Estragon;Tomatensauce;Fischsauce;Dunkle Sauce;0;3
+Wie heißt die Ableitung der Béchamel mit Käse?;Sauce Mornay;Sauce Choron;Sauce Robert;Sauce Maltaise;0;3
+Was ist eine "Sauce Colbert"?;Abgeleitete Fleischsauce;Fischfond;Salatdressing;Dessertsauce;0;3
+Wie werden Hummer korrekt gelötet (getötet)?;Kopf voran in kochendes Wasser;In kaltem Wasser langsam erhitzen;Einfrieren;In der Pfanne braten;0;3
+Was ist der Unterschied zwischen See- und Flusskrebsen?;Lebensraum Salz- vs. Süßwasser;Die Farbe;Die Anzahl der Scheren;Die Größe der Augen;0;2
+Was versteht man unter "Blau kochen" bei Fischen?;Garen im Essigsud mit Schleimschicht;Garen in Blaubeersaft;Frittieren;Grillen;0;2
+Welche Eigenschaft hat ein "Magerfisch"?;Fettgehalt unter 2 Prozent;Hat keine Gräten;Lebt nur im Tiefsee;Ist immer weiß;0;2
+Wie nennt man das Entfernen der Innereien beim Fisch?;Ausnehmen;Parieren;Tranchieren;Schuppen;0;1
+Was ist eine "Ganache"?;Mischung aus Sahne und Schokolade;Ein Tortenboden;Eine Zuckerglasur;Ein Fruchtpüree;0;2
+Woraus besteht eine "Bayerische Creme"?;Milch, Eigelb, Zucker, Sahne, Gelatine;Nur Sahne und Zucker;Mehl und Wasser;Eischnee und Obst;0;3
+Was ist der Hauptunterschied zwischen Mürbeteig und Hefeteig?;Triebmittel (Hefe);Die Mehlsorte;Die Farbe;Die Backtemperatur;0;1
+Was ist "Blindbacken"?;Backen ohne Füllung mit Beschwerung;Backen mit verbundenen Augen;Backen bei 0 Grad;Backen im Dampf;0;2
+Wie nennt man das Unterheben von Eischnee?;Melieren;Sautieren;Pochieren;Passieren;0;2
+Was ist eine "Englische Creme"?;Basissauce aus Milch, Eigelb, Zucker;Vanillepudding;Schlagsahne;Fruchtsauce;0;3
+Wofür steht die Abkürzung "UHT" bei Milch?;Ultra-Hoch-Temperatur;Unter-Halte-Zeit;Universal-Hitze-Test;Ultra-Haltbar-Trinkbar;0;1
+Was ist "Kandieren"?;Haltbarmachen durch Zuckersirup;Einfrieren;Frittieren;Salzen;0;2
+Welcher Zucker wird für Karamell verwendet?;Saccharose (Haushaltszucker);Milchzucker;Fruchtzucker;Traubenzucker;0;2
+Was ist ein "Sorbet"?;Gefrorenes Fruchtwasser ohne Milch;Milcheis;Ein Heißgetränk;Ein Kuchen;0;1
+Welches Vitamin ist fettlöslich?;Vitamin A;Vitamin C;Vitamin B12;Vitamin B1;0;2
+Was ist die Hauptfunktion von Kohlenhydraten?;Energielieferant;Baustoff für Muskeln;Polsterung der Organe;Transport von Sauerstoff;0;1
+Wie nennt man Eiweiß in der Fachsprache?;Protein;Lipid;Glukose;Fruktose;0;1
+Welches Mineral ist wichtig für den Knochenbau?;Calcium;Eisen;Magnesium;Kalium;0;1
+Was ist eine "Zöliakie"?;Glutenunverträglichkeit;Laktoseintoleranz;Allergie gegen Nüsse;Zuckerlkrankheit;0;2
+Was sind "Ballaststoffe"?;Unverdauliche Pflanzenfasern;Reines Fett;Zuckerersatz;Flüssige Fette;0;2
+Welches Öl hat den höchsten Anteil an ungesättigten Fettsäuren?;Leinöl;Kokosfett;Schweineschmalz;Butter;0;2
+Was ist "Emulgieren"?;Verbinden von Fett und Wasser;Trennen von Eiweiß;Kochen von Zucker;Trocknen von Obst;0;2
+Wie viel kcal hat 1 Gramm Fett?;9 kcal;4 kcal;7 kcal;1 kcal;0;3
+Was ist "Laktose"?;Milchzucker;Fruchtzucker;Malzzucker;Rohrzucker;0;1
+Welches Lebensmittel hat den höchsten Vitamin-C-Gehalt?;Paprika;Brot;Fleisch;Nudeln;0;1
+Was versteht man unter "biologischer Wertigkeit"?;Qualität des Proteins für den Körper;Preis des Produkts;Haltbarkeit;Farbe des Lebensmittels;0;3
+Wofür benötigt der Körper Jod?;Schilddrüse;Muskelaufbau;Sehkraft;Haarwachstum;0;2
+Was ist eine Anämie?;Eisenmangel (Blutarmut);Zuckermangel;Fettüberschuss;Vitamin-C-Mangel;0;3
+Welches Getreide enthält kein Gluten?;Mais;Gerste;Hafer;Dinkel;0;2
+Was ist eine "Inventur"?;Bestandsaufnahme der Vorräte;Eine neue Speisekarte;Ein Kochwettbewerb;Ein Reinigungsplan;0;2
+Was bedeutet "First-in - First-out"?;Ältere Ware zuerst verbrauchen;Schnell kochen;Gäste zuerst bedienen;Personal zuerst essen;0;1
+Was ist ein "Gault Millau"?;Ein Restaurantführer;Ein Kochmesser;Ein Saucenlöffel;Eine Kochmütze;0;2
+Wie nennt man den Preis ohne Mehrwertsteuer?;Nettopreis;Bruttopreis;Listenpreis;Endpreis;0;2
+Was ist ein "Aperitif"?;Appetitanregendes Getränk;Ein Dessert;Eine Vorspeise;Ein Verdauungsschnaps;0;1
+Wie nennt man das Personal im Service?;Brigade de Salle;Brigade de Cuisine;Plongeur;Sommelier;0;3
+Was ist ein "Sommelier"?;Weinfachmann;Küchenchef;Abwaschhilfe;Einkäufer;0;1
+Was versteht man unter "À la carte"?;Bestellung nach Karte;Ein festes Menü;Essen vom Buffet;Überraschungsessen;0;1
+Was ist eine "Degustation"?;Verkostung kleiner Proben;Großer Abwasch;Küchenreinigung;Fleischbeschau;0;2
+Wie heißt der Stellvertreter des Küchenchefs?;Sous-Chef;Chef de Partie;Commis de Cuisine;Gardemanger;0;2
+Was macht ein "Entremetier"?;Beilagenkoch;Saucenkoch;Fischkoch;Fleischkoch;0;3
+Welcher Koch ist für kalte Speisen zuständig?;Gardemanger;Saucier;Rôtisseur;Pâtissier;0;2
+Was ist ein "Pass"?;Schnittstelle Küche/Service;Ein Ausweis;Ein Kochtopf;Ein Gewürz;0;1
+Wie nennt man die Vorbereitung des Arbeitsplatzes?;Mise en place;HACCP;Inventur;Kalkulation;0;1
+Was ist ein "Convenience"-Produkt?;Vorgefertigtes Lebensmittel;Frisch vom Feld;Bio-Produkt;Giftiges Produkt;0;1
+Was ist das "Filet Mignon"?;Die schmale Spitze des Rinderfilets;Das Mittelstück;Der Filetkopf;Ein Teil der Schulter;0;3
+Aus welchem Teil stammt das "Ossobuco"?;Kalbshaxe (Scheiben);Rinderrücken;Schweinbauch;Lammkeule;0;3
+Wie nennt man das Spicken von magerem Fleisch mit Speckstreifen?;Lardieren;Pikieren;Tournieren;Montieren;0;2
+Was ist ein "Chateaubriand"?;Doppeltes Stück aus dem Filetkopf;Ein Fischgericht;Ein Dessert;Ein Geflügelteil;0;3
+Welches Teilstück vom Schwein wird für "Kasseler" meist verwendet?;Kotelett oder Nacken;Bauch;Pfote;Kopf;0;1
+Wie nennt man junges Truthahnfleisch?;Pute;Poularde;Kapaun;Stubenküken;0;1
+Was ist ein "Kapaun"?;Ein kastrierter, gemästeter Hahn;Eine junge Ente;Ein Wildvogel;Ein Huhn;0;3
+Was versteht man unter "Satteln" bei Wild?;Rücken mit Speck belegen;Reiten;Würzen;Einfrieren;0;2
+Wie nennt man die Garstufe "Bleu" beim Steak?;Fast roh (kurz angebraten);Rosa;Durchgebraten;Medium;0;1
+Welches Organ gehört NICHT zu den Innereien?;Lende;Leber;Niere;Bries;0;2
+Was ist das "Bries"?;Die Wachstumsdrüse (Thymus);Die Lunge;Das Herz;Der Magen;0;3
+Wie nennt man das Einlegen von Wildfleisch in Beize?;Beizen;Blanchieren;Passieren;Pökeln;0;1
+Welche Kerntemperatur sollte Geflügel mindestens erreichen?;75 bis 80 Grad Celsius;40 Grad Celsius;100 Grad Celsius;55 Grad Celsius;0;2
+Was ist "Konfieren"?;Garen im eigenen Fett bei niedriger Temperatur;Kochen in Salzwasser;Roh verzehren;Grillen;0;2
+Was ist ein "Tournedos"?;Kleine Filetsteaks;Ein Fisch;Ein Salat;Ein Messer;0;2
+Was ist ein "Dekantieren"?;Umgießen von Wein zur Belüftung;Einfrieren von Saft;Mischen von Cocktails;Kochen von Wein;0;2
+Welche Rebsorte ist typisch für Weißwein?;Riesling;Spätburgunder;Merlot;Cabernet Sauvignon;0;1
+Was bedeutet "Trocken" beim Wein?;Wenig Restzucker;Kein Alkohol;Viel Kohlensäure;Staubig;0;1
+Was ist ein "Cuvée"?;Mischung aus verschiedenen Rebsorten;Ein sehr teurer Wein;Ein Schnaps;Ein Weinglas;0;2
+Bei welcher Temperatur wird Rotwein idealerweise serviert?;16 bis 18 Grad Celsius;6 Grad Celsius;25 Grad Celsius;0 Grad Celsius;0;2
+Was ist "Champagner"?;Schaumwein aus der Champagne (Frankreich);Jeder Sekt;Ein Bier;Ein stiller Wein;0;1
+Was ist ein "Digestif"?;Verdauungsförderndes Getränk nach dem Essen;Ein Vorspeisensaft;Ein Suppenersatz;Ein Dessert;0;1
+Wie viel cl hat ein Standard-Schnapsglas in Deutschland?;2 oder 4 cl;10 cl;1 cl;50 cl;0;1
+Was ist ein "Barrique"-Fass?;Eichenholzfass zum Weinausbau;Ein Plastikbehälter;Ein Metalltank;Ein Kochtopf;0;3
+Was bedeutet der Begriff "Terroir"?;Einfluss von Boden und Klima auf den Wein;Die Flaschenform;Der Preis;Der Alkoholgehalt;0;3
+Aus welcher Frucht wird "Calvados" hergestellt?;Apfel;Traube;Birne;Kirsche;0;2
+Was ist ein "Grappa"?;Tresterschnaps;Ein Weißwein;Ein Käse;Eine Nudelsorte;0;2
+Wie nennt man den Schaum auf dem Espresso?;Crema;Baiser;Mousse;Sahne;0;1
+Was ist "Arabica"?;Eine Kaffeesorte;Ein Gewürz;Ein Tee;Ein Zucker;0;1
+Was ist ein "Pils"?;Untergäriges, hopfenbetontes Bier;Obergäriges Weizen;Ein Wein;Ein Schnaps;0;1
+Was ist die Basis einer "Sauce Béchamel"?;Helle Mehlschwitze und Milch;Butter und Eigelb;Fleischbrühe;Tomatenmark;0;2
+Wie nennt man eine klare Kraftbrühe mit Fleischeinlage?;Consommé;Velouté;Jus;Püree;0;2
+Was ist eine "Liaison"?;Bindung aus Eigelb und Sahne;Ein Küchengerät;Eine Fischart;Ein Salat;0;3
+Welche Sauce wird zu "Spargel klassisch" serviert?;Hollandaise;Bolognese;Currysauce;Vinaigrette;0;1
+Was ist eine "Vinaigrette"?;Mischung aus Öl, Essig, Salz, Pfeffer;Eine warme Sauce;Ein Pudding;Ein Fleischfond;0;1
+Wie nennt man eine kalte Sauce aus Öl und Eigelb?;Mayonnaise;Béchamel;Jus;Sauce Robert;0;1
+Was ist "Deglacieren"?;Ablöschen des Bratensatzes;Einfrieren;Salzen;Zuckern;0;2
+Wie viel Gramm Mehl braucht man für 1 Liter Grundsauce?;60 bis 80 Gramm;500 Gramm;10 Gramm;1000 Gramm;0;3
+Was ist der "Einstandspreis"?;Preis der Ware frei Haus;Verkaufspreis;Gewinn;Mehrwertsteuer;0;2
+Wie hoch ist der Faktor beim Kalkulationsaufschlag meistens?;3 bis 4;10;1;0.5;0;3
+Was ist eine "A-Ware" in der Lagerhaltung?;Teure Ware mit hohem Wertanteil;Abfall;Billigware;Alte Ware;0;3
+Was bedeutet "Bruttogewicht"?;Gewicht mit Verpackung;Gewicht ohne Verpackung;Preis;Qualität;0;1
+Wie nennt man den Verlust beim Putzen von Gemüse?;Putzverlust;Gewinn;Skonto;Rabatt;0;1
+Was ist ein "Skonto"?;Preisnachlass bei schneller Zahlung;Eine Steuer;Ein Lagerraum;Ein Messer;0;2
+Wie viel Gramm sind 1 Pfund?;500 Gramm;1000 Gramm;100 Gramm;250 Gramm;0;1
+Wann hat der heimische Spargel traditionell Saison-Ende?;24. Juni (Johanni);1. Mai;31. August;15. Juli;0;2
+Welches Gemüse gehört zu den "Blütengemüsen"?;Artischocke;Karotte;Sellerie;Lauch;0;2
+Was ist "Schwarzwurzel"?;Ein Wurzelgemüse (Winterspargel);Ein Pilz;Ein Obst;Ein Gewürz;0;1
+Welches Kraut ist Hauptbestandteil von Pesto Genovese?;Basilikum;Petersilie;Schnittlauch;Dill;0;1
+Wie nennt man die feinen Streifen von Zitrusfrüchten?;Zesten;Julienne;Brunoise;Würfel;0;1
+Was ist "Chicorée"?;Ein Blattsalat mit Bitterstoffen;Eine Kartoffelsorte;Ein Fleischteil;Ein Getränk;0;1
+Welches Gemüse ist die Basis für "Sauerkraut"?;Weißkohl;Rotkohl;Wirsing;Blumenkohl;0;1
+Was ist "Teltower Rübchen"?;Spezielle Speiserüben;Kleine Kartoffeln;Radieschen;Äpfel;0;2
+Wie lagert man Kartoffeln idealerweise?;Dunkel, kühl und trocken;Im Licht;Im Wasser;Tiefgekühlt;0;1
+Was ist "Fermentieren"?;Biologische Haltbarmachung (z.B. Milchsäure);Kochen unter Druck;Einfrieren;Frittieren;0;3
+Welches Gewürz wird aus der Rinde eines Baumes gewonnen?;Zimt;Pfeffer;Nelke;Anis;0;1
+Was ist "Piment"?;Nelkenpfeffer;Scharfer Paprika;Schwarzer Pfeffer;Meersalz;0;2
+Wie nennt man das kurze Garen von Tomaten zum Häuten?;Blanchieren;Pochieren;Sautieren;Schmoren;0;1
+Was ist "Rhabarber" botanisch gesehen?;Stängelgemüse;Kernobst;Steinobst;Beere;0;2
+Welcher Salat hat im Winter Hauptsaison?;Feldsalat;Kopfsalat;Eisbergsalat;Lollo Rosso;0;1
+Was ist "Bulgur"?;Vorgekochter Weizengrieß;Eine Reissorte;Eine Hülsenfrucht;Ein Maisprodukt;0;2
+Woraus werden klassische italienische Pasta hergestellt?;Hartweizengrieß;Weichweizenmehl;Maismehl;Roggenmehl;0;2
+Was sind "Gnocchi"?;Kartoffelklößchen;Reisbällchen;Fleischbällchen;Süßspeise;0;1
+Wie nennt man Kartoffelstäbchen (ca. 1x1x5 cm)?;Pont-neuf;Allumettes;Paille;Chips;0;3
+Was ist "Polenta"?;Maisgrießbrei;Reisgericht;Nudelsorte;Brotteig;0;1
+Welches Getreide wird für "Echt Pumpernickel" verwendet?;Roggen;Weizen;Gerste;Hafer;0;2
+Was ist "Couscous"?;Gedämpfter Hartweizengrieß;Linsengericht;Fischrogen;Kohlsorte;0;2
+Was bedeutet "Arroz" auf einer Speisekarte?;Reis;Nudeln;Brot;Kartoffeln;0;1
+Welche Kartoffelzubereitung ist "Dauphine"?;Kartoffelmasse mit Brandteig;Bratkartoffeln;Kartoffelpüree;Pellkartoffeln;0;3
+Was ist "Risotto"?;Italienisches Rundkornreis-Gericht;Langkornreis;Nudelsuppe;Kartoffelsalat;0;1
+Wie nennt man sehr fein geschnittene Kartoffelstroh-Streifen?;Paille;Julienne;Würfel;Scheiben;0;3
+Was ist "Wildreis" botanisch?;Wassergras-Samen;Echter Reis;Getreide;Unkraut;0;2
+Welche Zutat macht "Nudeln" gelb (außer Ei)?;Kurkuma oder Safran;Salz;Mehl;Öl;0;1
+Woraus besteht "Glasnudeln"?;Mungobohnenstärke;Weizen;Reis;Glas;0;2
+Was ist "Ebly"?;Vorgekochter Hartweizen;Reis;Gerste;Hafer;0;1
+Was regelt die "LMHV"?;Lebensmittelhygiene-Verordnung;Lohn-Mehr-Verordnung;Lager-Management;Lokal-Miet-Vertrag;0;2
+Wer ist für die Arbeitssicherheit im Betrieb verantwortlich?;Der Arbeitgeber;Nur der Koch;Der Gast;Die Feuerwehr;0;1
+Was bedeutet das Symbol "Flamme" auf einem Behälter?;Leicht entzündlich;Giftig;Ätzend;Bio;0;1
+Welcher Feuerlöscher ist für Fettbrände geeignet?;Fettbrandlöscher (Klasse F);Wasserlöscher;CO2-Löscher;Pulverlöscher;0;2
+Was ist "Mülltrennung" in der Gastronomie?;Trennung von Bio, Papier, Glas, Plastik;Alles in eine Tonne;Nur Papier trennen;Verbrennen;0;1
+Wie oft muss eine Belehrung nach dem Infektionsschutzgesetz erfolgen?;Alle 2 Jahre;Einmal im Leben;Jeden Monat;Nie;0;2
+Was ist ein "Betriebsrat"?;Interessenvertretung der Arbeitnehmer;Die Geschäftsführung;Ein Kochclub;Das Gesundheitsamt;0;2
+Was regelt das "Jugendarbeitsschutzgesetz"?;Arbeitszeiten für Minderjährige;Preise für Kindermenüs;Schulpflicht;Urlaub für alle;0;1
+Welche Behörde kontrolliert die Sauberkeit in der Küche?;Lebensmittelüberwachungsamt;Polizei;Finanzamt;Bauamt;0;1
+Was ist "Ökostrom"?;Strom aus erneuerbaren Energien;Billiger Strom;Strom aus Kohle;Batteriestrom;0;1
+Was ist ein "Arbeitszeugnis"?;Bewertung der Leistung bei Austritt;Ein Kochrezept;Ein Schulzeugnis;Ein Vertrag;0;1
+Wie nennt man die Zeit, in der man nach Vertragsabschluss kündigen kann?;Probezeit;Wartezeit;Freizeit;Urlaub;0;1
+Was ist "Nachhaltigkeit"?;Ressourcenschonung für die Zukunft;Schnelles Arbeiten;Viel Gewinn;Teures Essen;0;1
+Was ist ein "Sicherheitsdatenblatt"?;Infos zum Umgang mit Chemikalien;Ein Menüplan;Ein Dienstplan;Ein Reisepass;0;2
+Wofür ist die "Berufsgenossenschaft" zuständig?;Unfallversicherung und Prävention;Lohnzahlung;Urlaubsplanung;Einkauf;0;2
+Was ist "Schwarzarbeit"?;Arbeit ohne Steuer und Sozialabgaben;Arbeit in der Nacht;Arbeit mit Kohle;Kochen von Soßen;0;1
+Welche Temperatur ist für Tiefkühlware gesetzlich vorgeschrieben?;-18 Grad Celsius oder kälter;0 Grad Celsius;-5 Grad Celsius;+4 Grad Celsius;0;2
+Was ist "Dashi" in der japanischen Küche?;Ein Basis-Fischfond;Eine Nudelsorte;Ein Dessert;Ein scharfer Rettich;0;3
+Woraus wird "Wasabi" traditionell hergestellt?;Japanischer Meerrettich;Grüner Senf;Spinat;Chili;0;1
+Was ist eine "Paella"?;Spanisches Reisgericht;Italienische Pasta;Französischer Eintopf;Griechischer Salat;0;1
+Was versteht man unter "Spherification" (Sphärisierung)?;Flüssigkeiten in Perlen verwandeln;Fleisch weich klopfen;Gemüse trocknen;Einfrieren;0;3
+Was ist "Lecithin" in der modernen Küche?;Ein Emulgator für Schäume;Ein Süßungsmittel;Ein Farbstoff;Ein Verdickungsmittel;0;3
+Woraus besteht "Hummus"?;Kichererbsen und Tahina;Linsen und Speck;Bohnen und Öl;Erbsen und Sahne;0;1
+Was ist "Kimchi"?;Fermentierter Chinakohl;Ein japanisches Steak;Ein Dessert aus Reis;Ein thailändisches Curry;0;2
+Was versteht man unter "Ceviche"?;In Limettensaft gegarter Fisch;Gegrilltes Fleisch;Eine Suppe;Ein Gebäck;0;2
+Welche Zutat ist essenziell für ein "Wiener Gulasch"?;Viel Zwiebeln;Sahne;Kartoffeln;Tomatenmark;0;2
+Was ist "Taboulé"?;Petersiliensalat mit Bulgur;Ein Fleischspieß;Ein Käse;Eine Brotsorte;0;2
+Woraus besteht "Guacamole"?;Avocado;Tomaten;Käse;Auberginen;0;1
+Was ist "Tandoori"?;Indische Zubereitungsart im Lehmofen;Ein chinesisches Gewürz;Eine Nudelsorte;Ein Getränk;0;2
+Was ist "Pekingente" spezialität?;Chinesische Küche;Japanische Küche;Thailändische Küche;Indische Küche;0;1
+Was ist ein "Chutney"?;Würzig-süß-saure Sauce;Ein klarer Schnaps;Ein Fischgericht;Ein Brot;0;2
+Was ist "Bouillabaisse"?;Französische Fischsuppe;Fleischeintopf;Gemüseauflauf;Dessert;0;2
+Was versteht man unter dem "Deckungsbeitrag"?;Differenz zwischen Umsatz und Wareneinsatz;Der Reingewinn;Die Mehrwertsteuer;Die Miete;0;3
+Was ist eine "Mischkalkulation"?;Ausgleich zwischen gewinnstarken und -schwachen Gerichten;Mischen von Zutaten;Zusammenrechnen von Preisen;Eine Schätzung;0;3
+Wie hoch ist der Netto-Preis, wenn Brutto 119 Euro sind (19% MwSt)?;100 Euro;101 Euro;90 Euro;110 Euro;0;3
+Was ist "Skonto"?;Preisnachlass bei Barzahlung oder früher Zahlung;Ein Lagerfehler;Ein Rabatt für große Mengen;Eine Steuer;0;2
+Was bedeutet "Rentabilität"?;Verhältnis von Gewinn zu eingesetztem Kapital;Die Schnelligkeit der Küche;Die Größe des Lagers;Die Anzahl der Gäste;0;3
+Wie berechnet man den "Wareneinsatz in Prozent"?;(Wareneinsatz / Umsatz) * 100;Umsatz - Wareneinsatz;Preis * Menge;Gewinn + Kosten;0;3
+Was ist "AfA" in der Buchhaltung?;Absetzung für Abnutzung;Allgemeine Finanz-Auskunft;Amt für Arbeit;Anfangs-Ausgabe;0;3
+Was versteht man unter "Fixkosten"?;Kosten, die unabhängig vom Umsatz anfallen;Kosten für Lebensmittel;Trinkgelder;Rabatte;0;2
+Wie viel Fleisch (Rohgewicht) plant man ca. pro Person für ein Hauptgericht?;200 bis 250 Gramm;500 Gramm;100 Gramm;1 Kilogramm;0;2
+Was ist ein "Liquiditätsengpass"?;Zu wenig Bargeld zur Zahlung von Rechnungen;Zu wenig Wein im Keller;Ein kaputter Wasserhahn;Ein kleiner Weinkeller;0;3
